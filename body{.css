@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url(bg.png) no-repeat;
+    background-size: cover;
+  }
+  .box{
+    width: 450px;
+    background: rgba(0, 0, 0, 0.4);
+    padding: 40px;
+    text-align: center;
+    margin: auto;
+    margin-top: 5%;
+    color: rgb(255, 255, 255);
+    font-family: 'Century Gothic',sans-serif,Arial;
+  }
+  .box-img{
+    border-radius: 70%;
+    width: 200px;
+    height: 200px;
+  }
+  .box h1{
+    font-size: 40px;
+    letter-spacing: 5px;
+    font-weight: 50;
+  }
+  .box h5{
+    font-size: 30px;
+    letter-spacing: 4px;
+    font-weight: 50;
+  }
+  .box p{
+    text-align: justify;
+    font-size: 20px;
+  }
+ 
